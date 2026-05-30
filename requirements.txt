@@ -1,0 +1,24 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+pymongo
+from_root
+dill
+certifi
+PyYAML
+mypy-boto3-s3
+fastapi
+python-multipart
+uvicorn
+jinja2
+imblearn
+python-dotenv
+google-api-python-client
+google-auth 
+google-auth-httplib2
+google-auth-oauthlib
+-e .
